@@ -9,7 +9,7 @@ Claiming Bitcoin Cash ABC coins requires some work, and there's no one solution 
 ## Moving BCHA Coins. Method 1: Use The Provided Wallet or Node Software From The Bitcoin Cash Node (BCHN) Project
 Basic steps to split your BCH coins:
 ### Step 1.
-BCHN wallet that can be located via their project page - https://bchnodenwallet.org
+BCHN wallet that can be located via their project page - https://bchnodewallet.org
 
 ### Step 2.
 Select the option to log into your wallet.
